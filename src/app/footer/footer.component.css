@@ -1,0 +1,24 @@
+footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+footer ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    list-style: none;
+    padding: 1em;
+    gap: 2em;
+    font-weight: 600;
+    color: black;
+}
+
+footer li{
+    list-style: none;
+}
+footer a{
+    color: black;
+}

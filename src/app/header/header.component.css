@@ -1,0 +1,12 @@
+header ul{
+    list-style: none!important;
+    display: flex;
+    gap: 2em;
+    margin: 0;
+    padding: 1em;
+    background-color: grey;    
+}
+
+header li{
+    list-style: none;
+}
